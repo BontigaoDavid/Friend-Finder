@@ -1,0 +1,39 @@
+#container {
+}
+#title-container {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2vw;
+    margin-top: 50px;
+    display: block;
+}
+
+#take-survey-button {
+    width: 30%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+form {
+    width: 90%;
+    margin-left: 5%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.form-input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#best-friend-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
